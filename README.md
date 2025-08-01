@@ -10,15 +10,15 @@
 	<p>🔥 Language 🔥</p>
 </div>
 <div align=Left>
-	<img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=C&logoColor=white"/>
-	<img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  	<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23&logoColor=white">
-  	<img src="https://img.shields.io/badge/XAML-black?style=for-the-badge&logo=XAML&logoColor=white"/>	
+	<img src="https://img.shields.io/badge/C-989FA7?style=for-the-badge&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-989FA7?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  	<img src="https://img.shields.io/badge/C%23-989FA7?style=for-the-badge&logo=C%23&logoColor=white">
+  	<img src="https://img.shields.io/badge/XAML-989FA7?style=for-the-badge&logo=XAML&logoColor=white"/>	
   	<br>
-  	<img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
-  	<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/java-9E9E9C?style=for-the-badge&logo=java&logoColor=white">
+  	<img src="https://img.shields.io/badge/Python-9E9E9C?style=for-the-badge&logo=Python&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Kotlin-9E9E9C?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Swift-9E9E9C?style=for-the-badge&logo=Swift&logoColor=white"/>
 	<br>
   	<br>
 <div align=Left>
