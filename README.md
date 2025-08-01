@@ -10,21 +10,21 @@
 	<p>🔥 Language 🔥</p>
 </div>
 <div align=Left>
-  <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23&logoColor=white">
-  <img src="https://img.shields.io/badge/XAML-black?style=for-the-badge&logo=XAML&logoColor=white"/>	
-  <br>
-  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift&logoColor=white"/>
-<br>
-  <br>
+	<img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  	<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23&logoColor=white">
+  	<img src="https://img.shields.io/badge/XAML-black?style=for-the-badge&logo=XAML&logoColor=white"/>	
+  	<br>
+  	<img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
+  	<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift&logoColor=white"/>
+	<br>
+  	<br>
 <div align=Left>
 	<p>💾 Data 💾</p>
 </div>
-  <div align=Left>
+<div align=Left>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
@@ -32,14 +32,15 @@
 <div align=Left>
 	<p>⚡ Engine ⚡</p>
 </div>
-  <div align=Left>
-    <img src="https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=Unity&logoColor=white">
-    <img src="https://img.shields.io/badge/unreal-gray?style=for-the-badge&logo=unrealengine&logoColor=white">
+<div align=Left>
+	<img src="https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=Unity&logoColor=white">
+    	<img src="https://img.shields.io/badge/unreal-gray?style=for-the-badge&logo=unrealengine&logoColor=white">
 </div>
-
+	
 <div align=Leftr>
-
-<hr>
+<br>
+<br>
+<br>
 	
 ### 🏆 Awards 🏆
 | 상훈명                       | 수상내역               | 주최                      |
