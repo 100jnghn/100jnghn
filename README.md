@@ -40,6 +40,11 @@
 <br>
 <br>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100jnghn&layout=compact)](https://github.com/100jnghn/github-readme-stats)
+
+<br>
+<br>
 	
 <div align=Leftr>
 
