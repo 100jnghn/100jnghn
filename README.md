@@ -7,6 +7,7 @@
 
 <div align=Left>
 	<h1>📚 Tech Stack 📚</h1>
+	<br>
 	<p>🔥 Language 🔥</p>
 </div>
 <div align=Left>
