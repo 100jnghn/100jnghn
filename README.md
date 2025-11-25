@@ -42,7 +42,8 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100jnghn&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=100jnghn&layout=compact)
+
 
 <br>
 <br>
