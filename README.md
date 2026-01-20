@@ -40,10 +40,8 @@
 
 <br>
 <br>
-<br>
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=100jnghn&layout=compact)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100jnghn)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
