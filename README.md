@@ -5,6 +5,20 @@
   
 </div>
 
+<br>
+<div style="text-align: left;">
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=100jnghn&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"/>	  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100jnghn&count_private=true&layout=compact&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"/>
+  </div>
+</div>
+<br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswhd0415)](https://solved.ac/gnswhd0415)
+
+<br>
+<br>
+<br>
 <div align=Left>
 	<h1>📚 Tech Stack 📚</h1>
 	<br>
@@ -39,9 +53,6 @@
 </div>
 
 <br>
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100jnghn)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
