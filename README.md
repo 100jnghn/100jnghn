@@ -5,17 +5,9 @@
   
 </div>
 
-<div align=Left>
+## Jonghun Baek / Backend Developer
 왜 이 방법이어야 하는가 끝없이 고민하며 안정적인 아키텍처와 빈틈없는 로직을 만들어가는 백엔드 개발자
-</div>
-
-<br>
-<div style="text-align: left;">
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=100jnghn&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"/>	  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100jnghn&count_private=true&layout=compact&bg_color=60,ffffff,ffffff&title_color=0c0c0d&text_color=0c0c0d"/>
-  </div>
-</div>
+<br> 
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswhd0415)](https://solved.ac/gnswhd0415)
