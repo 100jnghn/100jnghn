@@ -28,7 +28,6 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   	<img src="https://img.shields.io/badge/C%23-54B848?style=for-the-badge&logo=C%23&logoColor=white">
-  	<br>
   	<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
   	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 	<br>
