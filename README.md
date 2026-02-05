@@ -25,15 +25,12 @@
 	<p>🔥 Language 🔥</p>
 </div>
 <div align=Left>
-	<img src="https://img.shields.io/badge/C-989FA7?style=for-the-badge&logo=C&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C++-989FA7?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  	<img src="https://img.shields.io/badge/C%23-989FA7?style=for-the-badge&logo=C%23&logoColor=white">
-  	<img src="https://img.shields.io/badge/XAML-989FA7?style=for-the-badge&logo=XAML&logoColor=white"/>	
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  	<img src="https://img.shields.io/badge/C%23-54B848?style=for-the-badge&logo=C%23&logoColor=white">
   	<br>
-  	<img src="https://img.shields.io/badge/java-9E9E9C?style=for-the-badge&logo=java&logoColor=white">
-  	<img src="https://img.shields.io/badge/Python-9E9E9C?style=for-the-badge&logo=Python&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Kotlin-9E9E9C?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  	<img src="https://img.shields.io/badge/Swift-9E9E9C?style=for-the-badge&logo=Swift&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
+  	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 	<br>
   	<br>
 <div align=Left>
@@ -41,17 +38,24 @@
 </div>
 <div align=Left>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-	<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
 <br>
 <div align=Left>
 	<p>⚡ Engine ⚡</p>
 </div>
 <div align=Left>
-	<img src="https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=Unity&logoColor=white">
-    	<img src="https://img.shields.io/badge/unreal-gray?style=for-the-badge&logo=unrealengine&logoColor=white">
+	<img src="https://img.shields.io/badge/unity-0E1128?style=for-the-badge&logo=Unity&logoColor=white">
+	<img src="https://img.shields.io/badge/unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 </div>
-
+<br>
+<div align=Left>
+	<p>⚙️ Framework ⚙️</p>
+</div>
+<div align=Left>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+	<img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white">
+</div>
 <br>
 
 <br>
