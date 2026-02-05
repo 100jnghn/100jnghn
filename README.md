@@ -5,6 +5,10 @@
   
 </div>
 
+<div align=Left>
+왜 이 방법이어야 하는가 끝없이 고민하며 안정적인 아키텍처와 빈틈없는 로직을 만들어가는 백엔드 개발자
+</div>
+
 <br>
 <div style="text-align: left;">
   <div align="left">
